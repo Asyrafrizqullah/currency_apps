@@ -1,0 +1,19 @@
+D:\pemrograman 3\Currency Apps\Currency Apps\bin\Debug\netcoreapp3.1\Currency Apps.exe
+D:\pemrograman 3\Currency Apps\Currency Apps\bin\Debug\netcoreapp3.1\Currency Apps.deps.json
+D:\pemrograman 3\Currency Apps\Currency Apps\bin\Debug\netcoreapp3.1\Currency Apps.runtimeconfig.json
+D:\pemrograman 3\Currency Apps\Currency Apps\bin\Debug\netcoreapp3.1\Currency Apps.runtimeconfig.dev.json
+D:\pemrograman 3\Currency Apps\Currency Apps\bin\Debug\netcoreapp3.1\Currency Apps.dll
+D:\pemrograman 3\Currency Apps\Currency Apps\bin\Debug\netcoreapp3.1\Currency Apps.pdb
+D:\pemrograman 3\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps.csprojAssemblyReference.cache
+D:\pemrograman 3\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\pemrograman 3\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\App.g.cs
+D:\pemrograman 3\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps_MarkupCompile.cache
+D:\pemrograman 3\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps_MarkupCompile.lref
+D:\pemrograman 3\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\pemrograman 3\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps.g.resources
+D:\pemrograman 3\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps.AssemblyInfoInputs.cache
+D:\pemrograman 3\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps.AssemblyInfo.cs
+D:\pemrograman 3\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps.csproj.CoreCompileInputs.cache
+D:\pemrograman 3\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps.dll
+D:\pemrograman 3\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps.pdb
+D:\pemrograman 3\Currency Apps\Currency Apps\obj\Debug\netcoreapp3.1\Currency Apps.genruntimeconfig.cache
